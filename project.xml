@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>E:/Steam/steamapps/common/DarkestDungeon/mods/RandomTrinket/</ModDataPath>
+	<Title>Random Trinkets Buffs</Title>
+	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>public</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>null</Tags>
+	</Tags>
+	<ItemDescription>Disarrange the buffs of trinkets.</ItemDescription>
+	<PublishedFileId>2025352230</PublishedFileId>
+</project>
+
